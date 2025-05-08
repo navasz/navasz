@@ -47,15 +47,7 @@ Welcome to my profile I am **Navas**, a cybersecurity enthusiast with a backgrou
 - **Splunk:** Dashboards, real-time alerting, search queries  
 - **ELK Stack:** Log ingestion with Logstash, search with Elasticsearch, visualization with Kibana
 
-### 🖥 System Administration
 
-![Windows Server](https://img.shields.io/badge/OS-Windows_Server-blue?logo=windows)
-![Active Directory](https://img.shields.io/badge/Tool-Active_Directory-brightgreen)
-![Linux](https://img.shields.io/badge/OS-Linux-lightgrey?logo=linux)
-
-- Active Directory user/group management and GPOs  
-- Windows Server configuration (DNS, DHCP)  
-- Basic Linux CLI usage
 
 ### 🔐 Other Skills
 
