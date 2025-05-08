@@ -1,6 +1,6 @@
-# 👨‍💻 Navas – Cybersecurity & SOC Analyst Portfolio
+# 👨‍💻 Navas 
 
-Welcome to my professional portfolio repository! I am **Navas**, a cybersecurity enthusiast with a background in commerce and a strong passion for network and security operations. This repository highlights my education, skills, certifications, and projects in the cybersecurity field.
+Welcome to my profile I am **Navas**, a cybersecurity enthusiast with a background in commerce and a strong passion for network and security operations. This repository highlights my education, skills, certifications, and projects in the cybersecurity field.
 
 ---
 
