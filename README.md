@@ -4,6 +4,19 @@ Welcome to my professional portfolio repository! I am **Navas**, a cybersecurity
 
 ---
 
+## 🏅 Quick Overview (Badges)
+
+![BCom](https://img.shields.io/badge/Education-B.Com_CA-blue)
+![SOC Analyst](https://img.shields.io/badge/Interest-SOC_Analyst-orange)
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blue?logo=wireshark)
+![Splunk](https://img.shields.io/badge/SIEM-Splunk-black?logo=splunk)
+![ELK Stack](https://img.shields.io/badge/SIEM-ELK_Stack-yellow?logo=elastic)
+![Active Directory](https://img.shields.io/badge/Project-Active_Directory-green)
+![Certification CEH v13](https://img.shields.io/badge/Cert-CEH_v13-red)
+![Certification ADCD](https://img.shields.io/badge/Cert-ADCD-blue)
+
+---
+
 ## 📚 Education
 
 - **Bachelor of Commerce (B.Com)**  
@@ -11,7 +24,7 @@ Welcome to my professional portfolio repository! I am **Navas**, a cybersecurity
 
 ---
 
-## 🎯 Career Interest
+## 🎯 Career Interests
 
 - Security Operations Center (SOC) Analyst  
 - Network Security & Monitoring  
@@ -22,20 +35,23 @@ Welcome to my professional portfolio repository! I am **Navas**, a cybersecurity
 
 ## 🛠 Skills
 
-- **Network Analysis:** Wireshark  
-  ![Wireshark Screenshot](images/wireshark-example.png)
+### 🔎 Network & Log Analysis
+- **Wireshark:** Deep packet inspection and network troubleshooting
+- **Log Analysis:** Log parsing, threat hunting, and SIEM alert analysis
 
-- **Log Analysis:** Understanding of log formats, threat detection, and forensic analysis  
+### 🧰 SIEM Tools
+- **Splunk:** Custom dashboards, alerts, and real-time monitoring  
+- **ELK Stack (Elasticsearch, Logstash, Kibana):** Centralized logging and visualization
 
-- **SIEM Tools:**  
-  - Splunk  
-    ![Splunk Dashboard](images/splunk-dashboard.png)  
-  - ELK Stack (Elasticsearch, Logstash, Kibana)  
-    ![ELK Stack](images/elk-stack.png)
+### 🖥 System Administration
+- **Active Directory:** User/group management, policy enforcement, domain services  
+- **Windows Server:** DNS, DHCP, GPO configuration  
+- **Linux Basics:** Command line navigation, scripting
 
-- **Operating Systems:** Windows Server, Linux Basics  
-- **Authentication & Access Management:** Active Directory  
-  ![Active Directory Lab](images/active-directory-lab.png)
+### 🧠 Other Skills
+- Threat Intelligence Basics  
+- Incident Response Workflow  
+- Ticketing & Alert Triage
 
 ---
 
@@ -44,8 +60,6 @@ Welcome to my professional portfolio repository! I am **Navas**, a cybersecurity
 ### 🔐 Active Directory Lab
 - **Description:** Built a virtual lab simulating an enterprise Active Directory environment.
 - **Tools Used:** Windows Server, Group Policy, DNS/DHCP
-- **Screenshot:**  
-  ![AD Project Screenshot](images/ad-project.png)
 - **Outcome:** Learned domain setup, user/group policy management, and basic AD security practices.
 
 ---
@@ -53,9 +67,7 @@ Welcome to my professional portfolio repository! I am **Navas**, a cybersecurity
 ## 📜 Certifications
 
 - **CEH v13 – Certified Ethical Hacker**  
-  ![CEH Certificate](images/ceh-cert.png)  
-- **ADCD – Active Directory Certified Deployment** *(please verify full form)*  
-  ![ADCD Certificate](images/adcd-cert.png)
+- **ADCD – Active Directory Certified Deployment** *(Please confirm full title)*  
 
 ---
 
