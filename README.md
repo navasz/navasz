@@ -76,6 +76,10 @@ Welcome to my professional portfolio repository! I am **Navas**, a cybersecurity
 - **Tools Used:** Windows Server, Group Policy, DNS/DHCP
 - **Outcome:** Learned domain setup, user/group policy management, and basic AD security practices.
 
+### 📘 ACI Project – Medium Article  
+- **Title:** ACI: Active Directory Lab Configuration  
+- **Read it here:** [ACI – Medium Project by Navas](https://medium.com/@navasmohammed8089/aci-09268b82570b)
+
 ---
 
 ## 📜 Certifications
