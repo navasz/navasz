@@ -67,7 +67,7 @@ Welcome to my professional portfolio repository! I am **Navas**, a cybersecurity
 ## 📜 Certifications
 
 - **CEH v13 – Certified Ethical Hacker**  
-- **ADCD – Active Directory Certified Deployment** *(Please confirm full title)*  
+- **ADCD  
 
 ---
 
