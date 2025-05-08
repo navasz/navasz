@@ -92,7 +92,7 @@ Welcome to my profile I am **Navas**, a cybersecurity enthusiast with a backgrou
 ## 📫 Contact
 
 - **GitHub:** [your-username](https://github.com/your-username)  
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile) *(optional)*  
+- **LinkedIn:** [your-linkedin-profile](httpswww.linkedin.com/in/mohammed-navas123) *(optional)*  
 - **Email:** your.email@example.com
 
 ---
